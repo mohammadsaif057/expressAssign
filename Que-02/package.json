@@ -1,0 +1,14 @@
+{
+  "name": "que-02",
+  "version": "1.0.0",
+  "description": "Answer-02",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Dawood",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
